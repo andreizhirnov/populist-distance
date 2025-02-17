@@ -1,0 +1,53 @@
+﻿cntry,party,party_long,incumbent,include,populist,farright,farleft,popul,vs2019,family
+DE,AfD,Alternative für Deutschland,,Y,1,1,0,PR,10.98,Right-wing
+DE,Greens,Bündnis ‘90/Die Grünen,,Y,,,,OTH,20.53,Green/Ecologist
+DE,CDU/CSU,CDU/CSU,Y,Y,,,,OTH,28.87,Christian democracy
+DE,Linke,Die Linke,,Y,1,0,1,PL,5.5,Communist/Socialist
+DE,FDP,FDP,,Y,,,,OTH,5.42,Liberal
+DE,Free Voters,Free Voters,,N,,,,OTH,2.16,Conservative
+DE,SPD,SPD,Y,Y,,,,OTH,15.82,Social democracy
+DE,Animal Rights Party,Animal Rights Party,,N,,,,,,
+DE,Die Partei,Die Partei,,N,,,,,,
+DE,DIEM25,DIEM25,,N,,,,,,
+DE,OEDP,OEDP,,N,,,,,,
+DE,Piraten,Piraten,,N,,,,,,
+DE,Volt,Volt,,N,,,,,,
+IT,PlusEuropa,+Europa,,N,,,,OTH,3.11,Liberal
+IT,Verde,Europa Verde,,N,,,,OTH,2.32,Green/Ecologist
+IT,FI,Forza Italia,,Y,1,0,0,PC,8.7,Conservative
+IT,FdI,Fratelli  d'Italia,,Y,1,1,0,PR,6.4,Right-wing
+IT,Lega,Lega,Y,Y,1,1,0,PR,34.3,Right-wing
+IT,M5S,Movimento 5  Stelle,Y,Y,1,0,0,PC,17.1,No Family
+IT,PD,Partito  Democratico,,Y,,,,OTH,22.7,Social democracy
+IT,SI,Sinistra,,N,,,,OTH,1.75,Communist/Socialist
+IT,Casa Pound,Casa Pound,,N,,,,,,
+IT,Partito Animalista,Partito Animalista,,N,,,,,,
+IT,Partito Communista,Partito Communista,,N,,,,,,
+IT,Partito Pirata,Partito Pirata,,N,,,,,,
+IT,Popolo della Famiglia,Popolo della Famiglia,,N,,,,,,
+IT,Poppolari per l'Italia,Poppolari per l'Italia,,N,,,,,,
+NL,50Plus,50Plus,,N,,,,OTH,3.91,Special issue
+NL,CDA,CDA,Y,Y,,,,OTH,12.18,Christian democracy
+NL,CU/SGP,CU/SGP,Y,Y,,,,OTH,6.83,Conservative
+NL,D66,D66,Y,Y,,,,OTH,7.09,Liberal
+NL,FvD,FvD,,Y,1,1,0,PR,10.96,Right-wing
+NL,GL,GL,,Y,,,,OTH,10.9,Green/Ecologist
+NL,PvdA,PvdA,,Y,,,,OTH,19.01,Social democracy
+NL,PvdD,PvdD,,N,,,,OTH,4.02,Special issue
+NL,PVV,PVV,,Y,1,1,0,PR,3.53,Right-wing
+NL,SP,SP,,Y,1,0,1,PL,3.37,Communist/Socialist
+NL,VVD,VVD,Y,Y,,,,OTH,14.64,Liberal
+NL,50plus,50plus,,N,,,,,,
+NL,De Groenen,De Groenen,,N,,,,,,
+NL,DENK,DENK,,N,,,,OTH,,
+NL,Jezus Leeft,Jezus Leeft,,N,,,,,,
+NL,Piratenpartij,Piratenpartij,,N,,,,,,
+NL,Volt,Volt,,N,,,,OTH,,
+SE,C,Centerpartiet,,Y,,,,OTH,10.78,Liberal
+SE,KD,Kristdemokraterna,,Y,,,,OTH,8.62,Christian democracy
+SE,L,Liberalerna,,N,,,,OTH,4.13,Liberal
+SE,MP,Miljöpartiet,Y,Y,,,,OTH,11.52,Green/Ecologist
+SE,M,Moderaterna,,Y,,,,OTH,16.83,Conservative
+SE,SAP,Socialdemokraterna,Y,Y,,,,OTH,23.48,Social democracy
+SE,SD,Sverigedemokraterna,,Y,1,1,0,PR,15.34,Right-wing
+SE,V,Vänsterpartiet,,Y,,,,OTH,6.8,Communist/Socialist

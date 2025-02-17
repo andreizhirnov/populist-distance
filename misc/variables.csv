@@ -1,0 +1,71 @@
+cntry,st.var,st_desc,reverse,dim,use_agg,alias,issue,issue_desc
+DE,precede0102,Immigrants must adapt to the values and culture of COUNTRY,N,cult,Y,cult1,nat_identity,Multiculturalism
+DE,precede0236,Islam is a threat to the values of country,N,cult,Y,cult2,nat_identity,Multiculturalism
+DE,precede0503198,A European army should be built,Y,cult,N,,eu_integ,
+DE,precede0503203,The EU should do more to prevent illegal immigrants from entering Europe,N,cult,Y,cult6,immigration,Immigration
+DE,precede0503221,EU citizens living COUNTRY should not have the same rights for social benefits as NATIONALS,N,cult,Y,cult7,nat_identity,Multiculturalism
+DE,precede0503258,"Rescuing people from the meditarranean sea is always the right way, even if they are illegal immigrants",Y,cult,Y,cult12,immigration,Immigration
+DE,precede0103,Wealth should be redistributed from the richest people to the poorest,Y,econ,Y,econ1,taxation,Redistribution
+DE,precede0107,Renewable sources of energy should be supported even if this means higher energy costs,Y,econ,N,,environment,Environment
+DE,precede0503205,A EU-wide minimum wage should be introduced,Y,econ,Y,econ5,labour_groups,Worker protection
+DE,precede0503217,There should be a minimum tax rate for companies in all EU countries,Y,econ,Y,econ7,,
+DE,precede0503242,EU should support biological agriculture more than conventional agriculture,Y,econ,N,,environment,Environment
+DE,precede0503249,Glyphosat should be banned as soon as possible,Y,econ,N,,environment,Environment
+DE,precede0106,"Overall, EU membership has been a bad thing for <Country>",N,euro,Y,euro1,eu_integ,
+DE,precede0503192,There should be a common EU foreign policy even if this limits the capacity of COUNTRY to act independently,Y,euro,Y,euro3,eu_integ,
+DE,precede0503193,COUNTRY should leave the EURO,N,euro,Y,euro4,eu_integ,
+DE,precede0503196,"A single member state should be able to block a treaty change, even if all the other members states agree to it",N,euro,N,,eu_integ,
+DE,precede0503200,The EU should reintroduce border checks,N,euro,Y,euro6,immigration,Immigration
+DE,precede0105,"In general, the state should intervene as little as possible in the economy",N,econ,Y,econ2,free_market_economy,Free market
+IT,precede0106,"Overall, EU membership has been a bad thing for <Country>",N,euro,Y,euro1,eu_integ,
+IT,precede0246,The right of EU citizens to work in <My Country> should be limited,N,euro,N,,immigration,Immigration
+IT,precede0503192,There should be a common EU foreign policy even if this limits the capacity of COUNTRY to act independently,Y,euro,Y,euro3,eu_integ,
+IT,precede0503193,COUNTRY should leave the EURO,N,euro,Y,euro4,eu_integ,
+IT,precede0503243,European economic integration has gone too far: Member States should regain greater autonomy,N,euro,Y,euro8,eu_integ,
+IT,precede0503201,Women should be free to decide on matters of abortion.,Y,cult,Y,cult4,trad_morality,
+IT,precede0503202,Consuming cannabis should be legal,Y,cult,Y,cult5,law_n_order,Law and order
+IT,precede0503256,Only legally recognized traditional families (married heterosexual couples) should be helped financially by the state,N,cult,Y,cult11,trad_morality,
+IT,precede0503305,Same-sex couples should have the same rights as heterosexual couples. ,Y,cult,Y,cult13,trad_morality,
+IT,precede0503194,Free market competition makes the health care system function better,N,econ,Y,econ4,free_market_economy,Free market
+IT,precede0503195,It should be easy for companies to fire people,N,econ,N,,labour_groups,Worker protection
+IT,precede0503206,Cutting public spending is a good way to resolve the economic crisis,N,econ,Y,econ6,welfare_state,Welfare state
+IT,precede0503214,"The introduction of a single tax rate (""flat tax"") would benefit the Italian economy",N,econ,N,,taxation,Redistribution
+IT,precede0503237,Any form of self-defense within private property should be legitimate,N,cult,N,,law_n_order,Law and order
+IT,precede0105,"In general, the state should intervene as little as possible in the economy",N,econ,Y,econ2,free_market_economy,Free market
+IT,precede0103,Wealth should be redistributed from the richest people to the poorest,Y,econ,Y,econ1,taxation,Redistribution
+IT,precede0102,Immigrants must adapt to the values and culture of COUNTRY,N,cult,Y,cult1,nat_identity,Multiculturalism
+NL,precede0239,There are too many immigrants in the Netherlands,N,cult,Y,cult3,immigration,Immigration
+NL,precede0236,Islam is a threat to the values of country,N,cult,Y,cult2,nat_identity,Multiculturalism
+NL,precede0503238,Anyone who enters Europe illegally cannot request asylum,N,cult,Y,cult9,immigration,Immigration
+NL,precede0503244,European integration will lead to the loss of national identity and culture,N,cult,N,,nat_identity,Multiculturalism
+NL,precede0246,The right of EU citizens to work in <My Country> should be limited,N,cult,N,,immigration,Immigration
+NL,precede0503240,Dutch people who have gone to Syria to fight may return to our country,Y,cult,N,,nat_identity,Multiculturalism
+NL,precede0503193,COUNTRY should leave the EURO,N,euro,Y,euro4,eu_integ,
+NL,precede0503230,The Netherlands must leave the EU (a Nexit),N,euro,Y,euro7,eu_integ,
+NL,precede0106,"Overall, EU membership has been a bad thing for <Country>",N,euro,Y,euro1,eu_integ,
+NL,precede0503192,There should be a common EU foreign policy even if this limits the capacity of COUNTRY to act independently,Y,euro,Y,euro3,eu_integ,
+NL,precede0103,Wealth should be redistributed from the richest people to the poorest,Y,econ,Y,econ1,taxation,Redistribution
+NL,precede0503198,A European army should be built,Y,econ,N,,eu_integ,
+NL,precede0503195,It should be easy for companies to fire people,N,econ,N,,labour_groups,Worker protection
+NL,precede0107,Renewable sources of energy should be supported even if this means higher energy costs,Y,econ,N,,environment,Environment
+NL,precede0503199,The EU should be able to intervene in the Member States' national policies if it violates the EU's fundamental values,Y,euro,Y,euro5,eu_integ,
+NL,precede0105,"In general, the state should intervene as little as possible in the economy",N,econ,Y,econ2,free_market_economy,Free market
+SE,precede0503203,The EU should do more to prevent illegal immigrants from entering Europe,N,cult,Y,cult6,immigration,Immigration
+SE,precede0503251,Introduce a begging ban,N,cult,Y,cult10,law_n_order,Law and order
+SE,precede0102,Immigrants must adapt to the values and culture of COUNTRY,N,cult,Y,cult1,nat_identity,Multiculturalism
+SE,precede0246,The right of EU citizens to work in <My Country> should be limited,N,cult,N,,immigration,Immigration
+SE,precede0503223,"European integration has gone too far, some power is being returned to the Member States",N,cult,N,,eu_integ,
+SE,precede0106,"Overall, EU membership has been a bad thing for <Country>",N,euro,Y,euro1,eu_integ,
+SE,precede0503225,Multiculturalism is positive for Sweden,Y,cult,Y,cult8,nat_identity,Multiculturalism
+SE,precede0238,The tax on the highest incomes should be increased,Y,econ,Y,econ3,taxation,Redistribution
+SE,precede0503234,It is better to raise taxes than to cut public spending,Y,econ,Y,econ9,welfare_state,Welfare state
+SE,precede0503257,Profit withdrawals from charter schools should be severely limited,Y,econ,Y,econ10,free_market_economy,Free market
+SE,precede0103,Wealth should be redistributed from the richest people to the poorest,Y,econ,Y,econ1,taxation,Redistribution
+SE,precede0503224,Introduce gender quotas for the boards of larger companies,Y,econ,N,,trad_morality,
+SE,precede0503231,"Employers should be allowed to make more exemptions from the ""last in first out"" rule in staff reductions",N,econ,Y,econ8,labour_groups,Worker protection
+SE,precede0105,"In general, the state should intervene as little as possible in the economy",N,econ,Y,econ2,free_market_economy,Free market
+SE,precede0503233,Tax reductions stimulate work and entrepreneurship,N,econ,N,,free_market_economy,Free market
+SE,precede0503194,Free market competition makes the health care system function better,N,econ,Y,econ4,free_market_economy,Free market
+SE,precede0503199,The EU should be able to intervene in the Member States' national policies if it violates the EU's fundamental values,Y,euro,Y,euro5,eu_integ,
+SE,precede0503192,There should be a common EU foreign policy even if this limits the capacity of COUNTRY to act independently,Y,euro,N,euro3,eu_integ,
+SE,precede0216,The EU should be given its own tax law,Y,euro,Y,euro2,eu_integ,

@@ -1,9 +1,6 @@
-The output of the analysis of party-voter congruence
+# How congruent are populist parties with their constituencies?
 
-AZ
-2025-02-17
-
-This document replicates the displays included in the following research
+This document replicates the analysis presented in the following research
 note:
 
 Zhirnov, A., Thomeczek, J.P., Scotto Di Vettimo, M., López Ortega, A.,
